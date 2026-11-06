@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00ff41&text=KASHIF&fontColor=00FF41&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%5Bsystem%5D+connection+established...;%5Buser%5D+kashif+%40+application+security;%5Bmode%5D+offense+%E2%86%92+defense;%5Bstatus%5D+scanning+for+what+others+miss..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%5Bsystem%5D+connection+established...;%5Buser%5D+Muhammad kashif+%40+application+security;%5Bmode%5D+offense+%E2%86%92+defense;%5Bstatus%5D+scanning+for+what+others+miss..." />
 
 <br>
 
