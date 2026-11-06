@@ -1,102 +1,81 @@
-<!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,50:071b14,100:00d084&text=KASHIF&fontColor=E8FFF4&fontSize=64&fontAlignY=42&desc=CYBERSECURITY%20RESEARCHER%20%7C%20APPLICATION%20SECURITY%20%7C%20API%20SECURITY&descAlignY=63&descSize=13&animation=fadeIn" width="100%" alt="Kashif cybersecurity profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:00d084&text=Muhammad%20Kashif&fontColor=E8FFF4&fontSize=50&fontAlignY=40&desc=Application%20Security%20%7C%20API%20Security%20%7C%20Vulnerability%20Research&descAlignY=60&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D084&center=true&vCenter=true&width=800&lines=THINK+LIKE+AN+ATTACKER.+BUILD+LIKE+A+DEFENDER.;APPLICATION+SECURITY+%7C+API+SECURITY;RESEARCH.+VALIDATE.+DISCLOSE+RESPONSIBLY." alt="Animated profile tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&width=700&lines=Think+like+an+attacker.+Build+like+a+defender.;Breaking+applications+to+make+them+safer.;Research.+Validate.+Disclose+responsibly." />
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00D084)](https://github.com/mkashifsec)
-[![HackerOne](https://img.shields.io/badge/HackerOne-050505?style=for-the-badge&logo=hackerone&logoColor=00D084)](https://hackerone.com/)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-050505?style=for-the-badge&logo=bugcrowd&logoColor=00D084)](https://bugcrowd.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkashifsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 
 </div>
 
----
+<br>
 
-## / OPERATOR PROFILE
+## About Me
 
-I am a cybersecurity researcher focused on **Application Security, API Security, and vulnerability research**. My work combines hands-on security testing, technical analysis, and responsible disclosure to help identify and understand security weaknesses in real-world software.
+I am a cybersecurity researcher specializing in **Application Security** and **API Security**. My work focuses on identifying, validating, and responsibly disclosing real-world vulnerabilities in production software.
 
-I approach security from both offensive and defensive perspectives: understanding how systems fail, validating impact, and communicating findings clearly so they can be addressed.
+I approach security from both offensive and defensive angles, understanding how systems break, proving impact with evidence, and communicating findings in a way that helps teams fix them.
 
-- **Primary focus:** Application Security and API Security
-- **Research interests:** Security assessment, attack-surface analysis, authentication and authorization design, and vulnerability research
-- **Methodology:** Manual testing, systematic validation, reproducible evidence, and responsible disclosure
-- **Currently developing:** Deeper expertise in secure architecture and cloud security
+- Focused on Application Security and API Security
+- Working toward Cloud Security (AWS) expertise
+- Active in open-source vulnerability research and bug bounty programs
+- Practicing responsible, coordinated disclosure
 
-## / RESEARCH DOMAINS
+<br>
 
-| Domain | Focus |
-|:--|:--|
-| Application Security | Web application assessment and security testing |
-| API Security | API discovery, endpoint analysis, and access-control assessment |
-| Vulnerability Research | Root-cause analysis, impact validation, and coordinated disclosure |
-| Security Engineering | Secure design principles and practical defensive controls |
-| Cloud Security | AWS security architecture, identity, infrastructure, and workload security |
+## Public Research
 
-## / PUBLIC RESEARCH
+| Project | Advisory |
+|---|---|
+| TT-RSS | [GHSA-62wp-j9w3-4vrv](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-62wp-j9w3-4vrv) |
+| TT-RSS | [GHSA-jp5f-hphf-vrwp](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-jp5f-hphf-vrwp) |
 
-Publicly disclosed security research:
+<br>
 
-| Project | Reference |
-|:--|:--|
-| TT-RSS Security Advisory | [GHSA-62wp-j9w3-4vrv](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-62wp-j9w3-4vrv) |
-| TT-RSS Security Advisory | [GHSA-jp5f-hphf-vrwp](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-jp5f-hphf-vrwp) |
-
-I value responsible disclosure, clear technical evidence, and collaboration with maintainers throughout the remediation process.
-
-## / TECHNICAL ARSENAL
+## Core Skills
 
 <div align="center">
 
-**Security Testing**
+<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git,aws&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git&theme=dark" alt="Linux, Docker, Python, Bash, Git" />
+<br><br>
 
-<br/><br/>
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=00D084)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square&logo=linux&logoColor=00D084)](https://nmap.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=00D084)](https://www.wireshark.org/)
-[![Nuclei](https://img.shields.io/badge/Nuclei-111111?style=flat-square&logo= target&logoColor=00D084)](https://github.com/projectdiscovery/nuclei)
-[![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=00D084)](https://www.postman.com/)
-[![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=flat-square&logo=gnu&logoColor=00D084)](https://ghidra-sre.org/)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-003366?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=projectdiscovery&logoColor=white)
 
 </div>
 
-## / GITHUB TELEMETRY
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkashifsec&show_icons=true&hide_border=true&bg_color=050505&title_color=00D084&icon_color=00D084&text_color=E8FFF4&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkashifsec&layout=compact&hide_border=true&bg_color=050505&title_color=00D084&text_color=E8FFF4" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkashifsec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D084&icon_color=00D084&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkashifsec&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D084&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=mkashifsec&hide_border=true&background=050505&ring=00D084&fire=00D084&currStreakLabel=E8FFF4&sideLabels=E8FFF4&currStreakNum=00D084&sideNums=00D084&dates=8A9B92" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mkashifsec&hide_border=true&background=0d1117&ring=00D084&fire=00D084&currStreakLabel=00D084" />
 
 </div>
 
-## / RESEARCH PRINCIPLES
+<br>
 
-- **Evidence over assumptions.** Validate behavior and demonstrate impact.
-- **Precision over noise.** Focus on meaningful security outcomes.
-- **Responsible disclosure.** Respect scope, rules of engagement, and coordinated disclosure.
-- **Continuous learning.** Study systems deeply and keep practical skills current.
-- **Security is a process.** Build, test, review, improve, and repeat.
+## How I Work
 
-## / CURRENT TRAJECTORY
+- Evidence over assumptions, every claim is validated and reproducible
+- Responsible disclosure, respecting scope and coordinated timelines
+- Continuous learning, studying systems deeply rather than relying on tools alone
+- Security as a process, test, review, improve, repeat
 
-Deepening practical expertise in application and API security while expanding into AWS and cloud security. The objective is to understand modern applications across the full stack, from application behavior and identity boundaries to the infrastructure and services that support them.
-
-## / CONTACT & RESEARCH
-
-For security-related collaboration, responsible disclosure, or technical discussion, connect through my GitHub profile.
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00d084" width="100%" alt="" />
-
-<sub>SECURITY RESEARCH • RESPONSIBLE DISCLOSURE • CONTINUOUS IMPROVEMENT</sub>
-
+<sub>Open to security research collaboration and responsible disclosure discussions.</sub>
 </div>
