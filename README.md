@@ -1,65 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:001a0d,100:00ff41&text=M.%20KASHIF&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=APPLICATION%20SECURITY%20%7C%20API%20SECURITY%20%7C%20VULN%20RESEARCH&descAlignY=62&descSize=13&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00ff41&text=KASHIF&fontColor=00FF41&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Application+Security+Researcher;Breaking+systems+to+make+them+safer.;Exploit.+Validate.+Disclose." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%5Bsystem%5D+connection+established...;%5Buser%5D+kashif+%40+application+security;%5Bmode%5D+offense+%E2%86%92+defense;%5Bstatus%5D+scanning+for+what+others+miss..." />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mkashifsec&color=00ff41&style=flat-square&label=TRACES+DETECTED)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mkashifsec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kashifsec/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/kashifsec)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=mkashifsec&color=00ff41&style=flat-square&label=SCANS)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/mkashifsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kashifsec/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/kashifsec)
 
 </div>
 
-<br>
-
-### whoami
-
-Application Security Researcher and Penetration Tester focused on web and API security. I test systems manually, prove impact with evidence, and follow responsible disclosure from first report to fix.
-
-```
-[+] Web & API Penetration Testing
-[+] Secure Code Review & Manual Exploitation
-[+] Open Source Vulnerability Research
-[+] CTF Player
-```
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br>
 
-### Disclosed Advisories
+<div align="center">
 
-| Target | Advisory |
-|---|---|
-| TT-RSS | [GHSA-62wp-j9w3-4vrv](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-62wp-j9w3-4vrv) |
-| TT-RSS | [GHSA-jp5f-hphf-vrwp](https://github.com/tt-rss/tt-rss/security/advisories/GHSA-jp5f-hphf-vrwp) |
+```
+ ___  ___ ___  _    ___ ___ ___ ___ ___ _____ ___ ___  _  _
+| __|/ __| _ \| |  / _ \_ _|_   _/ __| _ \_ _|_   _| __/ __|| \| |
+| _| \__ \   /| |_| (_) | |    | | (__|   /| |  | | | _|\__ \| .` |
+|___||___/_|_\|____\___/___|   |_|\___|_|_\___| |_| |___|___/|_|\_|
+```
+
+</div>
+
+**I break software before someone with worse intentions does.**
+
+No scanners replacing judgment, no payload copied blindly. Every finding is manually tested, reproduced, and reported with evidence that holds up.
 
 <br>
 
-### Arsenal
-
-**Offensive**
 ```
-Web & API Penetration Testing  ·  Manual Exploitation  ·  Auth Bypass
-IDOR  ·  SSRF  ·  Business Logic Flaws  ·  Exploit Chaining  ·  CVSS Scoring
-```
-
-**Application Security**
-```
-Secure Code Review  ·  Threat Modeling (STRIDE, PASTA)
-OWASP Top 10  ·  OWASP ASVS  ·  API Security Testing
+┌─[ disclosed ]────────────────────────────────────────────┐
+│ TT-RSS  →  GHSA-62wp-j9w3-4vrv                            │
+│ TT-RSS  →  GHSA-jp5f-hphf-vrwp                             │
+└───────────────────────────────────────────────────────────┘
 ```
 
-**Cloud & Systems**
+<br>
+
+<div align="center">
+
+### how i operate
+
+</div>
+
 ```
-AWS Security — IAM, S3   ·   Docker Container Hardening
-Linux (Kali, Ubuntu)  ·  Windows Server (AD)  ·  CCNA Concepts
+┌─────────────┬─────────────────────────────────────────────┐
+│  RECON      │  Map the surface before touching it          │
+│  EXPLOIT    │  Manual, deliberate, zero noise               │
+│  VALIDATE   │  If it's not reproducible, it's not real      │
+│  DISCLOSE   │  Scope respected, timeline honored            │
+└─────────────┴─────────────────────────────────────────────┘
 ```
+
+<br>
 
 <div align="center">
 
@@ -68,45 +68,30 @@ Linux (Kali, Ubuntu)  ·  Windows Server (AD)  ·  CCNA Concepts
 <br><br>
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00FF41)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF41)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41)
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=projectdiscovery&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF41)
 
 </div>
 
 <br>
 
-### Projects
+<div align="center">
 
-**Cloud & Container Security Lab** — `AWS · Docker`
-Architected least-privilege IAM policies and secure S3 configurations to prevent public data exposure. Applied Docker container hardening techniques for secure deployment in isolated lab environments.
+### writing
 
-**PhishGuard — Anti-Phishing IDS** — `Python · XGBoost · Optuna · Streamlit`
-Production-grade ML pipeline achieving 97.3% accuracy in detecting malicious URLs. Awarded 3rd position at the university-level FYP competition.
+</div>
 
-<br>
+<div align="center">
 
-### Certifications
+Research notes and an ongoing AWS / cloud security log, published on Medium.
 
-```
-[+] CASA — Certified API Security Analyst, APISEC University
-[+] CNSP — Certified Network Security Practitioner, with Merit, The SecOps Group
-[+] CCNA Track — Advanced Networking, CORVIT Lahore
-[+] BS Computer Science — University of Education, Lahore
-```
+[![Medium](https://img.shields.io/badge/READ_THE_LOGS-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
+
+</div>
 
 <br>
-
-### Writing
-
-Research write-ups and a running AWS / cloud security learning series on Medium.
-
-[![Medium](https://img.shields.io/badge/READ_ON_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
-
-<br>
-
-### GitHub Activity
 
 <div align="center">
 
@@ -121,13 +106,11 @@ Research write-ups and a running AWS / cloud security learning series on Medium.
 
 <br>
 
-### Principles
-
 ```
-[+] Evidence over assumptions
-[+] Scope is law, no exceptions
-[+] Silence until it's fixed, then speak
-[+] If it's not reproducible, it's not real
+[+] evidence over assumptions
+[+] scope is law
+[+] silence until it's fixed
+[+] if it's not reproducible, it's not real
 ```
 
 <br>
