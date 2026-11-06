@@ -28,7 +28,9 @@
 
 </div>
 
-I break software before someone with worse intentions does. No scanners replacing judgment, no payload copied blindly. Every finding is manually tested, reproduced, and reported with evidence that holds up.
+I break software before someone with worse intentions does. No scanners replacing judgment, no payload copied blindly. Every finding is manually tested, reproduced, and reported with evidence that holds up before a word gets written.
+
+My work sits at the intersection of offense and defense: finding the flaw an automated scanner walks past, proving it with a clean reproducible chain, and handing the fix path to whoever owns the code.
 
 <br>
 
@@ -44,11 +46,23 @@ I break software before someone with worse intentions does. No scanners replacin
 <br>
 
 <pre>
-RECON     ->  map the surface before touching it
-EXPLOIT   ->  manual, deliberate, zero noise
-VALIDATE  ->  if it's not reproducible, it's not real
-DISCLOSE  ->  scope respected, timeline honored
+RECON      ->  map the attack surface before touching anything
+ANALYZE    ->  read the code, not just the response
+EXPLOIT    ->  manual, deliberate, zero automated noise
+VALIDATE   ->  if it's not reproducible, it's not real
+REPORT     ->  evidence first, impact clear, no fluff
+DISCLOSE   ->  scope respected, timeline honored, silence until fixed
 </pre>
+
+</details>
+
+<details>
+<summary><b>$ cat methodology.log</b></summary>
+<br>
+
+Every engagement starts the same way: map what's actually exposed before touching anything. Subdomain and asset enumeration, then a pass through every endpoint for logic that doesn't hold up under pressure. Authentication boundaries, authorization checks, and anything that trusts client-side input get tested first, because that's where real impact lives.
+
+Findings get chained where possible. A low severity leak is rarely the end of the story, it's usually the first domino.
 
 </details>
 
@@ -70,13 +84,21 @@ DISCLOSE  ->  scope respected, timeline honored
 
 </div>
 
+<br>
+
+<pre>
+RECON      ->  subfinder, amass, httpx, naabu, dnsx, puredns, chaos
+DISCOVERY  ->  katana, gau, waybackurls, ffuf
+SCANNING   ->  nuclei, trufflehog, interactsh-client
+</pre>
+
 </details>
 
 <br>
 
 ### writing
 
-Research notes and an ongoing AWS / cloud security log.
+Research notes and an ongoing AWS / cloud security log, documented in public.
 
 <a href="https://kashifsec.medium.com/"><img src="https://img.shields.io/badge/READ_THE_LOGS-000000?style=for-the-badge&logo=medium&logoColor=00FF41" /></a>
 
@@ -96,7 +118,7 @@ Research notes and an ongoing AWS / cloud security log.
 
 <div align="center">
 
-evidence over assumptions · scope is law · silence until it's fixed
+evidence over assumptions · scope is law · silence until it's fixed · if it's not reproducible, it's not real
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" />
 
