@@ -17,16 +17,16 @@
 
 <br>
 
-<div align="center">
+```
+kashif@core ~ % neofetch
 
-<pre>
- ___  ___ ___  _    ___ ___ ___ ___ ___ _____ ___ ___  _  _
-| __|/ __| _ \| |  / _ \_ _|_   _/ __| _ \_ _|_   _| __/ __|| \| |
-| _| \__ \   /| |_| (_) | |    | | (__|   /| |  | | | _|\__ \| .` |
-|___||___/_|_\|____\___/___|   |_|\___|_|_\___| |_| |___|___/|_|\_|
-</pre>
-
-</div>
+       _____                    OS: Application Security
+      /     \                   Role: Penetration Tester / AppSec Researcher
+     | () () |                  Focus: Web, API, Open Source Vuln Research
+      \  ^  /                   Method: Manual exploitation, zero noise
+       |||||                    Shell: bash + burp + python
+       |||||                    Uptime: since Jan 2024
+```
 
 I break software before someone with worse intentions does. No scanners replacing judgment, no payload copied blindly. Every finding is manually tested, reproduced, and reported with evidence that holds up before a word gets written.
 
@@ -45,14 +45,14 @@ My work sits at the intersection of offense and defense: finding the flaw an aut
 <summary><b>$ cat how_i_operate.log</b></summary>
 <br>
 
-<pre>
+```
 RECON      ->  map the attack surface before touching anything
 ANALYZE    ->  read the code, not just the response
 EXPLOIT    ->  manual, deliberate, zero automated noise
 VALIDATE   ->  if it's not reproducible, it's not real
 REPORT     ->  evidence first, impact clear, no fluff
 DISCLOSE   ->  scope respected, timeline honored, silence until fixed
-</pre>
+```
 
 </details>
 
@@ -86,11 +86,11 @@ Findings get chained where possible. A low severity leak is rarely the end of th
 
 <br>
 
-<pre>
+```
 RECON      ->  subfinder, amass, httpx, naabu, dnsx, puredns, chaos
 DISCOVERY  ->  katana, gau, waybackurls, ffuf
 SCANNING   ->  nuclei, trufflehog, interactsh-client
-</pre>
+```
 
 </details>
 
