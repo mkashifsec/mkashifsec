@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:001a0d,100:00ff41&text=M.%20KASHIF&fontColor=00FF41&fontSize=55&fontAlignY=40&desc=APPLICATION%20SECURITY%20%7C%20API%20SECURITY%20%7C%20VULN%20RESEARCH&descAlignY=62&descSize=13&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:001a0d,100:00ff41&text=M.%20KASHIF&fontColor=00FF41&fontSize=58&fontAlignY=38&desc=APPLICATION%20SECURITY%20%7C%20API%20SECURITY%20%7C%20VULN%20RESEARCH&descAlignY=62&descSize=13&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kashif%3A~%23+whoami;Application+Security+Researcher;Breaking+systems+to+make+them+safer.;sudo+./exploit.sh+--responsible" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kashif%3A~%23+whoami;%5B%2B%5D+Access+Granted...;Finding+what+others+miss.;Exploit.+Validate.+Disclose.+Repeat." />
 
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mkashifsec&color=00ff41&style=flat-square&label=TRACES+DETECTED)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mkashifsec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kashifsec/)
@@ -19,27 +21,40 @@
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ cat about.txt[0m
-```
+└─$ ./initiate_scan.sh --target=self[0m
 
-I break applications for a living, then tell the people who built them how to fix it. My focus is **Application Security** and **API Security**: manual testing, root-cause analysis, and vulnerabilities that hold up under scrutiny, not scanner noise.
-
-```ansi
-[0;32m[+] Focus Areas:[0m
-    ├── Application Security Testing
-    ├── API Security & Access Control Analysis
-    ├── Open Source Vulnerability Research
-    └── Cloud Security (AWS) — active learning track
-
-[0;32m[+] Currently:[0m
-    └── Founder @ 0xTraceSec — cybersecurity community
+[0;32m[*] Booting profile...
+[*] Loading operator data...
+[+] Identity confirmed: KASHIF
+[+] Role: APPLICATION SECURITY RESEARCHER
+[+] Status: ACTIVE[0m
 ```
 
 <br>
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ cat disclosed_advisories.txt[0m
+└─$ cat /root/manifesto.txt[0m
+```
+
+I don't wait for the scanner to tell me something's broken. I read the code, poke the logic, and break what's supposed to be unbreakable. Then I tell the people who built it, before someone worse does.
+
+```ansi
+[0;32m[+] PRIMARY TARGETS:[0m
+    ├── Web Application Attack Surfaces
+    ├── API Access Control & Auth Logic
+    ├── Open Source Codebases (Product Hunting)
+    └── Cloud Infrastructure (AWS) — ongoing offensive
+
+[0;32m[+] METHOD:[0m
+    └── Manual. Deliberate. Zero noise. Every finding reproducible.
+```
+
+<br>
+
+```ansi
+[0;32m┌──(kashif㉿core)-[~]
+└─$ cat /var/log/disclosed_advisories.log[0m
 ```
 
 | Target | Advisory |
@@ -51,18 +66,18 @@ I break applications for a living, then tell the people who built them how to fi
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ ls -la writeups/[0m
+└─$ tail -f writeups.log[0m
 ```
 
-Documenting an ongoing AWS and cloud security learning series on Medium, day by day, alongside research write-ups.
+Documenting the grind, AWS and cloud security, day by day, no filters, no fluff. What breaks, what works, what I learn the hard way.
 
-[![Medium](https://img.shields.io/badge/READ_WRITE--UPS-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
+[![Medium](https://img.shields.io/badge/READ_THE_LOGS-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
 
 <br>
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ cat arsenal.txt[0m
+└─$ ls -la /opt/arsenal/[0m
 ```
 
 <div align="center">
@@ -83,7 +98,7 @@ Documenting an ongoing AWS and cloud security learning series on Medium, day by 
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ git log --stat[0m
+└─$ git log --graph --stat --all[0m
 ```
 
 <div align="center">
@@ -93,27 +108,34 @@ Documenting an ongoing AWS and cloud security learning series on Medium, day by 
 
 <img src="https://streak-stats.demolab.com?user=mkashifsec&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkashifsec&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
 </div>
 
 <br>
 
 ```ansi
 [0;32m┌──(kashif㉿core)-[~]
-└─$ cat principles.txt[0m
+└─$ cat /etc/rules_of_engagement[0m
 
-[+] Evidence over assumptions
-[+] Precision over noise
-[+] Scope respected, always
-[+] Disclosure done right, not loud
-[+] Still learning, every single day
+[+] Evidence over assumptions. Always.
+[+] Scope is law. No exceptions.
+[+] Silence until it's fixed. Then speak.
+[+] If it's not reproducible, it's not real.
+[+] Still learning. Still breaking. Still here.[0m
 ```
 
 <br>
+
+```ansi
+[0;32m┌──(kashif㉿core)-[~]
+└─$ echo "connection_open"[0m
+```
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" />
 
-<sub>[ CONNECT // RESEARCH // DISCLOSE ]</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Connection+established...;Awaiting+next+target." />
 
 </div>
