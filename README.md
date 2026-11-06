@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:001a0d,100:00ff41&text=M.%20KASHIF&fontColor=00FF41&fontSize=58&fontAlignY=38&desc=APPLICATION%20SECURITY%20%7C%20API%20SECURITY%20%7C%20VULN%20RESEARCH&descAlignY=62&descSize=13&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:001a0d,100:00ff41&text=M.%20KASHIF&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=APPLICATION%20SECURITY%20%7C%20API%20SECURITY%20%7C%20VULN%20RESEARCH&descAlignY=62&descSize=13&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kashif%3A~%23+whoami;%5B%2B%5D+Access+Granted...;Finding+what+others+miss.;Exploit.+Validate.+Disclose.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Application+Security+Researcher;Breaking+systems+to+make+them+safer.;Exploit.+Validate.+Disclose." />
 
 <br>
 
@@ -19,43 +19,20 @@
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ ./initiate_scan.sh --target=self[0m
+### whoami
 
-[0;32m[*] Booting profile...
-[*] Loading operator data...
-[+] Identity confirmed: KASHIF
-[+] Role: APPLICATION SECURITY RESEARCHER
-[+] Status: ACTIVE[0m
+Application Security Researcher and Penetration Tester focused on web and API security. I test systems manually, prove impact with evidence, and follow responsible disclosure from first report to fix.
+
+```
+[+] Web & API Penetration Testing
+[+] Secure Code Review & Manual Exploitation
+[+] Open Source Vulnerability Research
+[+] CTF Player
 ```
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ cat /root/manifesto.txt[0m
-```
-
-I don't wait for the scanner to tell me something's broken. I read the code, poke the logic, and break what's supposed to be unbreakable. Then I tell the people who built it, before someone worse does.
-
-```ansi
-[0;32m[+] PRIMARY TARGETS:[0m
-    ├── Web Application Attack Surfaces
-    ├── API Access Control & Auth Logic
-    ├── Open Source Codebases (Product Hunting)
-    └── Cloud Infrastructure (AWS) — ongoing offensive
-
-[0;32m[+] METHOD:[0m
-    └── Manual. Deliberate. Zero noise. Every finding reproducible.
-```
-
-<br>
-
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ cat /var/log/disclosed_advisories.log[0m
-```
+### Disclosed Advisories
 
 | Target | Advisory |
 |---|---|
@@ -64,20 +41,24 @@ I don't wait for the scanner to tell me something's broken. I read the code, pok
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ tail -f writeups.log[0m
+### Arsenal
+
+**Offensive**
+```
+Web & API Penetration Testing  ·  Manual Exploitation  ·  Auth Bypass
+IDOR  ·  SSRF  ·  Business Logic Flaws  ·  Exploit Chaining  ·  CVSS Scoring
 ```
 
-Documenting the grind, AWS and cloud security, day by day, no filters, no fluff. What breaks, what works, what I learn the hard way.
+**Application Security**
+```
+Secure Code Review  ·  Threat Modeling (STRIDE, PASTA)
+OWASP Top 10  ·  OWASP ASVS  ·  API Security Testing
+```
 
-[![Medium](https://img.shields.io/badge/READ_THE_LOGS-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
-
-<br>
-
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ ls -la /opt/arsenal/[0m
+**Cloud & Systems**
+```
+AWS Security — IAM, S3   ·   Docker Container Hardening
+Linux (Kali, Ubuntu)  ·  Windows Server (AD)  ·  CCNA Concepts
 ```
 
 <div align="center">
@@ -89,17 +70,43 @@ Documenting the grind, AWS and cloud security, day by day, no filters, no fluff.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00FF41)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF41)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41)
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=projectdiscovery&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00FF41)
 
 </div>
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ git log --graph --stat --all[0m
+### Projects
+
+**Cloud & Container Security Lab** — `AWS · Docker`
+Architected least-privilege IAM policies and secure S3 configurations to prevent public data exposure. Applied Docker container hardening techniques for secure deployment in isolated lab environments.
+
+**PhishGuard — Anti-Phishing IDS** — `Python · XGBoost · Optuna · Streamlit`
+Production-grade ML pipeline achieving 97.3% accuracy in detecting malicious URLs. Awarded 3rd position at the university-level FYP competition.
+
+<br>
+
+### Certifications
+
 ```
+[+] CASA — Certified API Security Analyst, APISEC University
+[+] CNSP — Certified Network Security Practitioner, with Merit, The SecOps Group
+[+] CCNA Track — Advanced Networking, CORVIT Lahore
+[+] BS Computer Science — University of Education, Lahore
+```
+
+<br>
+
+### Writing
+
+Research write-ups and a running AWS / cloud security learning series on Medium.
+
+[![Medium](https://img.shields.io/badge/READ_ON_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://kashifsec.medium.com/)
+
+<br>
+
+### GitHub Activity
 
 <div align="center">
 
@@ -114,28 +121,19 @@ Documenting the grind, AWS and cloud security, day by day, no filters, no fluff.
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ cat /etc/rules_of_engagement[0m
+### Principles
 
-[+] Evidence over assumptions. Always.
-[+] Scope is law. No exceptions.
-[+] Silence until it's fixed. Then speak.
-[+] If it's not reproducible, it's not real.
-[+] Still learning. Still breaking. Still here.[0m
+```
+[+] Evidence over assumptions
+[+] Scope is law, no exceptions
+[+] Silence until it's fixed, then speak
+[+] If it's not reproducible, it's not real
 ```
 
 <br>
 
-```ansi
-[0;32m┌──(kashif㉿core)-[~]
-└─$ echo "connection_open"[0m
-```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Connection+established...;Awaiting+next+target." />
 
 </div>
